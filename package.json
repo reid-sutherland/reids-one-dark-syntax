@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "reids-one-dark-syntax",
   "theme": "syntax",
-  "version": "1.8.4",
-  "description": "A dark syntax theme",
+  "version": "1.8.3",
+  "description": "A dark syntax theme, cloned from Atom One Dark",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/reid-sutherland/reids-one-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
